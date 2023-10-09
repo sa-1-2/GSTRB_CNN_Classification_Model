@@ -1,4 +1,4 @@
-# German Traffic Sign Classification Model
+# German Traffic Sign CNN Classification Model
 
 This project aims to accurately classify German traffic signs using machine learning techniques. The dataset used is The German Traffic Sign Benchmark, a multi-class, single-image classification problem with over 40 different classes and contains more than 50,000 images in .ppm format.
 
