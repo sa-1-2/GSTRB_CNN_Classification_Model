@@ -1,4 +1,3 @@
-PIL
 numpy
 pandas
 seaborn
@@ -6,3 +5,13 @@ tensorflow
 matplotlib
 scikit-learn
 keras-tuner
+notebook
+python-box
+pyYAML
+ensure
+joblib
+types-PyYAML
+Flask
+Flask-Cors
+-e .
+
